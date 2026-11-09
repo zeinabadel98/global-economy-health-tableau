@@ -52,4 +52,4 @@ These findings describe associations in the dataset, not necessarily cause-and-e
 
 ## What I Learned
 
-Through
+Through this project, I practiced building interactive dashboards, analyzing relationships between variables, using visualizations to compare countries, and presenting findings through a Tableau Story.
